@@ -16,7 +16,7 @@
 .button-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(12, 90px);
+    grid-template-rows: repeat(13, 90px);
     gap: 18px;
     max-width: 750px;
     margin: 40px auto;
